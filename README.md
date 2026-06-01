@@ -1,6 +1,6 @@
 # Youenn Le Gouedec
 
-Laravel, Vue and Nuxt developer based in Brittany, France.
+Laravel, Vue and Nuxt developer based in Redon, France.
 
 I build and maintain web applications for SaaS products and small teams: back-end architecture, front-end interfaces, billing, integrations, deployment workflows, and existing codebases that need to become easier to evolve.
 
